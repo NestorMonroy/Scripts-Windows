@@ -1,0 +1,97 @@
+# Archivos de logs y salidas
+*.log
+*.log.*
+*.out
+*.err
+
+# Archivos temporales de Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos generados por el sistema
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de configuración de Windows
+*.bak
+*.swp
+*.swo
+*.swn
+*.pid
+
+# Archivos generados por IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# Archivos temporales de edición de código
+*~
+*.swp
+*.swo
+
+# Archivos de compilación específicos de Windows
+*.exe
+*.dll
+*.pdb
+*.lib
+*.ilk
+*.ncb
+*.obj
+
+# Archivos generados por entornos virtuales
+env/
+venv/
+.venv/
+
+# Carpetas de salida de proyectos
+output/
+dist/
+build/
+tmp/
+temp/
+deploy/
+target/
+
+# Archivos específicos de configuración y backups
+*.bak
+*.tmp
+*.orig
+*.swp
+
+# Carpeta .git que debe ser ignorada si se encuentra dentro de un subproyecto
+.git/
+
+# Archivos y carpetas de Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+.vs2015/
+.vs2013/
+.vs2012/
+.vs2010/
+# Binarios de Visual Studio
+bin/
+obj/
+# Archivos de usuario específicos del proyecto
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos específicos de IntelliJ IDEA
+.idea
+*.iml
+*.iws
+.idea_modules/
+out/
+
+# Archivos generados por PowerShell
+#*.ps1
+#*.psm1
+*.psd1
+*.ps1xml
+# Archivos temporales generados por PowerShell
+*.psc1
+*.pdb
